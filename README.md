@@ -1,2 +1,2 @@
 # ProjetoElevador
-Projeto Final curso MS-Dev - Samsung Ocean
+Projeto Final Curso MS-Dev - Samsung Ocean
